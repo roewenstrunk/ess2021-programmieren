@@ -44,4 +44,4 @@ Programmierkenntnisse sind auch für Kultur- und GeisteswissenschaftlerInnen von
 
 ### Übungsaufgaben 2
 
-![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/uebungsaufgaben2.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/uebungsaufgaben2.ipynb)
