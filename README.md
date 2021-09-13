@@ -1,4 +1,4 @@
-<img src="https://ess.upb.de/2021/img/ViFE-ESS-logo-2021.png" alt="ESS 2021" style="width:200px; float:right;"/>
+<img src="https://ess.upb.de/2021/img/ViFE-ESS-logo-2021.png" alt="ESS 2021" style="width:300px;"/>
 
 # Programmieren für Kultur- und Geisteswissenschaftler*innen
 
@@ -14,7 +14,7 @@ Programmierkenntnisse sind auch für Kultur- und GeisteswissenschaftlerInnen von
 
 ### Einführung
 
-Link zum Notebook [![Open "Einführung" in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/einfuehrung.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/einfuehrung.ipynb)
 
 * Informationen zur Arbeitsumgebung: Google Colaboratory
 * Grundlegende Informationen zu Python
@@ -22,7 +22,7 @@ Link zum Notebook [![Open "Einführung" in Colab](https://colab.research.google.
 
 ### Grundlegende Elemente der Programmierung
 
-Link zum Notebook [![Open "Grundlagen" in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/grundlagen.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/grundlagen.ipynb)
 
 * Variablen und Datentypen
 * Ausdrücke und Operatoren
@@ -31,11 +31,11 @@ Link zum Notebook [![Open "Grundlagen" in Colab](https://colab.research.google.c
 
 ### Übungsaufgaben 1
 
-Link zum Notebook [![Open "Übungsaufgaben 1" in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/uebungsaufgaben1.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/uebungsaufgaben1.ipynb)
 
 ### Weiterführende Elemente der Programmierung
 
-Link zum Notebook [![Open "Weiterführende Elemente" in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/weiterfuehrende.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/weiterfuehrende.ipynb)
 
 * Schleifen
 * Datenstrukturen
@@ -44,4 +44,4 @@ Link zum Notebook [![Open "Weiterführende Elemente" in Colab](https://colab.res
 
 ### Übungsaufgaben 2
 
-Link zum Notebook [![Open "Übungsaufgaben 2" in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/uebungsaufgaben2.ipynb)
+![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/roewenstrunk/ess2021-programmieren/blob/master/uebungsaufgaben2.ipynb)
